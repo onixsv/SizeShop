@@ -1,0 +1,14 @@
+name: SizeShop
+author: alvin0319
+main: alvin0319\SizeShop\SizeShop
+version: 1.0.0
+api: 4.0.0
+
+commands:
+  크기:
+    description: 크기 명령어입니다.
+    permission: sizeshop.command
+
+permissions:
+  sizeshop.command:
+    default: true
